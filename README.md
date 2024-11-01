@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My Carlos Vamberto Filho and I'm Software Engineer from Brazil.</h2>
+<h2 align="left">Hi 👋! I'm Carlos Vamberto Filho and I'm Software Engineer from Brazil.</h2>
 
 ###
 
